@@ -6,7 +6,7 @@ This is a simple Flask-based API for managing pizza restaurants and their menus.
 
 1. Clone the repository.
 2. Install the required packages using `pip install -r requirements.txt`.
-3. Run the application with `python app.py`.
+3. Run the application with `python main.py`.
 
 ## Endpoints
 
